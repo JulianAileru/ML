@@ -3,5 +3,5 @@
 - Classes
     - Linear Regression 
     - Multiple Linear Regression (diabetes dataset)
-    - Logistic Regression (In Progress)
+    - Logistic Regression (Iris Dataset)
     - Artificial Neural Networks (In Progress)
