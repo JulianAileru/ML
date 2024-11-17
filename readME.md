@@ -4,4 +4,5 @@
     - Linear Regression 
     - Multiple Linear Regression (diabetes dataset)
     - Logistic Regression (Iris Dataset)
-    - Artificial Neural Networks (In Progress)
+    - Artificial Neural Networks (Iris Dataset)
+    - Principal Component Analysis (In Progress)
